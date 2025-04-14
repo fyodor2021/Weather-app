@@ -1,4 +1,4 @@
-### Weather-app
+### ReactJS Weather-app
 
 #this application is designed to get text from the user(a city name) and display 
 the data in 3 hour intervals for the next 5 days, below is screen shots of this
